@@ -17,7 +17,7 @@ This is a lightweight key-value store built in Python that supports basic transa
 
 
 ## How This Could Be Improved
- - Add support for checking if a transaction is active, such as an 'inTransaction()' method, to make debugging and usage clearer.
+ - Add support for checking if a transaction is active, such as an `inTransaction()` method, to make debugging and usage clearer.
  - Provide starter code and a basic test harness to allow more focus on implementing transaction functionality.
  - Include edge-case examples and public test cases in the instructions to guide more thorough testing and catch potential issues early.
 
